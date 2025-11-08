@@ -62,10 +62,9 @@ Tweak any section below to keep it up to date.
 
 ---
 
-## Featured work
+## Portfolio
 - Portfolio (live): https://cheikhbeoumar.vercel.app
-- Todo App (live): https://incomparable-stroopwafel-46884a.netlify.app/
-- Portfolio v1 Demo (live): https://resplendent-tanuki-3de660.netlify.app/
+
 
 <!-- Add repo links once public:
 - General Social Registry System — Python/Django/MongoDB
